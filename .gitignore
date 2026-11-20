@@ -13,6 +13,7 @@ wheels/
 # =========================
 data/user_uploads/
 data/raw/
+data/documents/
 data/processed/
 
 .env
