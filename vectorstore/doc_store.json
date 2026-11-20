@@ -1,0 +1,2439 @@
+{
+  "parents": [
+    {
+      "page_content": "180-Day Data Science Journey \n(Beginner to Expert) \n \nWelcome to your 6-month roadmap to become a Data Scientist. You're not just learning you're \nleveling up. Let's break it down week by week. \n \nPhase 1: Python (Week 1\u20134) \n\u201cLay your foundation \u2014 this is your weapon for everything ahead.\u201d \nWeek 1: Basics \u2013 Variables, Data Types, Input/Output, Loops, Conditionals \nQ1. Write a Python program to swap two variables. \nQ2. Take user input and display it back to the user. \nQ3. Write a program to check if a number is even or odd. \nQ4. Create a program that prints the multiplication table of a given number. \nQ5. Write a program to find the largest of three numbers. \nQ6. Convert temperature from Celsius to Fahrenheit. \nQ7. Write a program to calculate the factorial of a number using a loop. \nQ8. Create a program to count the number of vowels in a string. \nQ9. Write a Python script to reverse a given string. \nQ10. Check if a number is a palindrome. \nQ11. Write a program to find the sum of first N natural numbers. \nQ12. Create a number guessing game. \nQ13. Write a program to print all prime numbers between 1 and 100. \nQ14. Check if a given year is a leap year or not. \nQ15. Create a program to print the Fibonacci series up to N terms. \nQ16. Write a program to find the GCD of two numbers. \nQ17. Write a program to find the LCM of two numbers. \nQ18. Check whether a character is a vowel or consonant. \nQ19. Write a program to calculate the sum of digits of a number.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 0,
+        "page_label": "1",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 1,
+        "parent_id": "Python.pdf::0",
+        "section": "180-Day Data Science Journey"
+      }
+    },
+    {
+      "page_content": "Q20. Create a program to find the second largest number in a list. \nQ21. Write a program to count the number of digits in an integer. \nQ22. Create a program to print all Armstrong numbers between 1 to 1000. \nQ23. Write a Python program to print a pattern of stars in a triangle. \nQ24. Create a calculator app using if-else. \nQ25. Write a program to display the ASCII value of a character. \nQ26. Convert a decimal number to binary using loops. \nQ27. Create a program to find the square root of a number. \nQ28. Write a program to find the sum of all even numbers in a list. \nQ29. Create a program to check whether a number is prime or not. \nQ30. Write a program to display the cube of the number up to an integer. \n \n \n \nWeek 2: Functions, Lists, Tuples, Dictionaries, Sets \n \n1. Write a function to check if a number is even. \n2. Create a list and find the sum of all its elements. \n3. Write a program to find the maximum and minimum in a list. \n4. Create a program that removes duplicates from a list. \n5. Write a function to reverse a list. \n6. Create a tuple and access its elements. \n7. Convert a list into a tuple and vice versa. \n8. Write a program to merge two dictionaries. \n9. Write a function to count the frequency of elements in a list. \n10. Create a dictionary of squares of numbers from 1 to 10. \n11. Write a program to sort a list in ascending order. \n12. Create a program to check if a key exists in a dictionary. \n13. Create a set and perform union, intersection, and difference.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 1,
+        "page_label": "2",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 2,
+        "parent_id": "Python.pdf::1",
+        "section": "Week 2: Functions, Lists, Tuples, Dictionaries, Sets"
+      }
+    },
+    {
+      "page_content": "14. Write a function to find common elements in two lists. \n15. Write a function that returns the factorial of a number. \n16. Create a function that checks whether a string is a palindrome. \n17. Write a function to count vowels in a string. \n18. Create a dictionary and iterate over its keys and values. \n19. Write a function to remove all punctuation from a string. \n20. Write a function to capitalize the first letter of each word in a string. \n21. Create a list comprehension to get squares of all even numbers in a range. \n22. Write a function to check if a string is an anagram. \n23. Create a nested dictionary to represent student records. \n24. Write a function to flatten a nested list. \n25. Write a program to find the second highest number in a list. \n26. Create a function to rotate a list left by k positions. \n27. Write a function to find the missing number from a list of 1 to N. \n28. Write a program to remove all None values from a list. \n29. Write a function to merge two dictionaries and handle key collisions by summing values. \n30. Create a function to find unique elements present in only one of two lists. \n \n \nWeek 3: File Handling, Error Handling, Modules, Comprehensions \n \nQ1. Write a Python script to read a file and print its contents. \nQ2. Create a file and write your name into it. \nQ3. Handle a ZeroDivisionError using try-except. \nQ4. Write a program to handle file not found error. \nQ5. Create a module with a function and import it in another file. \nQ6. Use a list comprehension to filter even numbers from a list.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::2",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q4. Write a program to handle file not found error. \nQ5. Create a module with a function and import it in another file. \nQ6. Use a list comprehension to filter even numbers from a list. \nQ7. Write a generator that yields even numbers up to N. \nQ8. Create a program to count lines and words in a file.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::3",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q9. Write a program to read a CSV file and print its contents. \nQ10. Handle multiple exceptions in a single try block. \n \nWeek 4: OOPs Concepts + Solve 50\u2013100 Logic Building Problems \n \nQ1. Write a Python program to check if a string has all unique characters. \nQ2. Create a program that removes all duplicate characters from a string. \nQ3. Write a script to count the frequency of each character in a string. \nQ4. Write a program that accepts a sentence and calculates the number of upper and lower case letters. \nQ5. Create a program to find the longest word in a sentence. \nQ6. Write a program that takes a string and returns the string in reverse order without using [::-1]. \nQ7. Create a Python function to check if a string is a pangram. \nQ8. Write a Python script to sort words in a sentence alphabetically. \nQ9. Write a program to check if two strings are anagrams. \nQ10. Write a Python program to capitalize the first letter of each word in a sentence. \nQ11. Create a program that extracts numbers from a string and returns their sum. \nQ12. Write a program to replace all spaces in a string with underscores. \nQ13. Write a function to count how many times a substring appears in a string. \nQ14. Write a script to convert a string into title case without using .title(). \nQ15. Write a Python program to merge two dictionaries into one. \nQ16. Create a program to filter out all non-alphabetic characters from a string. \nQ17. Write a function that returns True if a string ends with a given suffix. \nQ18. Create a program that counts words, characters, and lines in a paragraph.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::4",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q17. Write a function that returns True if a string ends with a given suffix. \nQ18. Create a program that counts words, characters, and lines in a paragraph. \nQ19. Write a script to encode a string using Caesar cipher (shift = 3). \nQ20. Write a program that accepts a string and counts vowels and consonants. \nQ21. Create a script to convert binary string to decimal. \nQ22. Write a program to count the number of words starting with a vowel in a string. \nQ23. Create a script that takes a sentence and removes all stop words. \nQ24. Write a Python program to split a sentence into words and reverse each word.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::5",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q25. Write a function that returns a new string made of every third character of the original string. \nQ26. Write a program to find all palindromic substrings in a string. \nQ27. Write a function that compresses a string using run-length encoding. \nQ28. Write a Python program to count the frequency of each word in a file. \nQ29. Write a script that extracts hashtags from a tweet. \nQ30. Write a function to remove punctuation from a string. \nQ31. Create a program that finds the first non-repeating character in a string. \nQ32. Write a script that converts camelCase to snake_case. \nQ33. Write a function to generate acronyms from a sentence. \nQ34. Write a script to check if a file contains a specific word. \nQ35. Write a Python program to find and replace text in a file. \nQ36. Write a script that checks if all characters in a string are digits. \nQ37. Write a program to calculate the average word length in a sentence. \nQ38. Create a function that removes all HTML tags from a string. \nQ39. Write a program to parse a date string and display it in a different format. \nQ40. Write a script that finds all email addresses in a given text. \nQ41. Write a program that counts the occurrence of each vowel in a paragraph. \nQ42. Create a function that validates an email address format. \nQ43. Write a script to check if a string is a valid URL. \nQ44. Write a program that extracts all integers from a given text. \nQ45. Create a script to find duplicate words in a paragraph. \nQ46. Write a program that converts a sentence to Pig Latin.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::6",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q44. Write a program that extracts all integers from a given text. \nQ45. Create a script to find duplicate words in a paragraph. \nQ46. Write a program that converts a sentence to Pig Latin. \nQ47. Write a script that finds the longest sentence in a paragraph. \nQ48. Write a Python program to read a file and display all lines that contain a given keyword. \nQ49. Write a script to clean a text file by removing extra spaces and blank lines. \nQ50. Write a Python program to count how many sentences are in a paragraph. \n \n \nLearn Python using this video - https://www.youtube.com/watch?v=_aWbUudZ5Yo",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::7",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Step 2: Maths (Week 5\u20138) \n\"Understand the numbers \u2014 because Data Science is 80% about interpreting data correctly.\" \n \nRecommended Resource: Watch our 5-hour full Statistics session on Sheryians AI School (YouTube) \u2014 \nhttps://www.youtube.com/watch?v=eF7HoC-cLRM&t=17267s \n \n \nWeek 5: Statistics Basics \u2013 Descriptive Statistics \nMean, Median, Mode \u2013 Concepts & Formulas \n \nVariance & Standard Deviation \u2013 Why do we need them? \n \nRange, Quartiles, IQR \n \nUnderstanding Data Distribution (Normal vs Skewed) \n \nHands-on with Python: mean(), median(), std(), describe() in NumPy & Pandas \n \nQ1. Create a NumPy array of 10 random integers between 1 and 100. Find its mean. \nQ2. Calculate the median of the array: [10, 5, 8, 12, 3, 7]. \nQ3. Generate an array of 15 random numbers between 1 and 50. Find its standard deviation. \nQ4. Create a 3x3 array with values from 1 to 9. Find the row-wise mean. \nQ5. For the array [4, 6, 8, 10, 12], calculate mean, median, std. \nQ6. Generate a 5x5 NumPy array of random integers (0 to 100). Find the overall mean. \nQ7. Create an array of 50 random integers and calculate the standard deviation. \nQ8. Find indices of non-zero elements from [1,2,0,0,4,0] \nQ9. You have an 2D array, print array element [[7,4]]:",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 5,
+        "page_label": "6",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 6,
+        "parent_id": "Python.pdf::8",
+        "section": "Step 2: Maths (Week 5\u20138)"
+      }
+    },
+    {
+      "page_content": "[[2,3,4 \n 5,7,4 \n 8,9,0]] \nQ10. Create 2 array of 2-Dimension and then perform matrix multiplication on them. \n \nWeek 6: Probability & Combinatorics \nBasic Probability Rules (Addition, Multiplication) \n \nConditional Probability & Bayes Theorem \n \nPermutations & Combinations (Simple problems) \n \nExpected Value & Real-World Examples \nQ1. A dice is thrown once. Find the probability of getting a 2 or 5. \nQ2. A card is drawn from a deck of 52 cards. Find the probability of getting a red card or a king. \nQ3. A number is chosen from 1 to 10. Find the probability that the number is even or divisible by 3. \nQ4. In a bag, there are 3 red and 2 blue balls. A ball is drawn randomly. Find the probability of getting a red ball \nor a blue ball. \nQ5. A spinner has 6 equal parts numbered 1 to 6. Find the probability of spinning a 1 or 6. \nQ6. A card is drawn twice with replacement. Find the probability that both cards are spades. \nQ7. A card is drawn from a deck and not replaced, then another card is drawn. Find the probability that both \nare aces. \nQ8. A coin is tossed twice. Find the probability of getting head on both tosses. \nQ9. A dice is rolled twice. Find the probability that first die shows 3 and second die shows an even number. \nQ10. A bag contains 4 white and 2 black balls. Two balls are drawn without replacement. Find the probability \nthat both are black. \nQ11. A coin is tossed once. Find the probability of getting a tail. \nQ12. A dice is thrown once. Find the probability of getting a number greater than 4",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::9",
+        "section": "Week 6: Probability & Combinatorics"
+      }
+    },
+    {
+      "page_content": "that both are black. \nQ11. A coin is tossed once. Find the probability of getting a tail. \nQ12. A dice is thrown once. Find the probability of getting a number greater than 4 \nQ13. A card is drawn from a deck. Find the probability that it is a queen or a red card. \nQ14. A box contains 2 red, 3 blue, and 5 green balls. One ball is drawn. Find the probability that it is green.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::10",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q15. A dice is rolled twice. Find the probability that both numbers are odd. \nQ16. A coin is tossed 3 times. Find the probability of getting exactly 2 heads. \nQ17. A bag has 4 yellow and 1 black ball. A ball is drawn and not replaced, then another ball is drawn. Find the \nprobability that both balls are yellow. \nQ18. Two cards are drawn together from a deck. Find the probability that both are kings. \nQ19. A spinner with 4 equal sections numbered 1 to 4 is spun twice. Find the probability that both spins show \nthe same number. \nQ20. A box has 5 red and 5 blue balls. One ball is drawn at random. Find the probability that it is not blue. \n \nWeek 7: Inferential Statistics \u2013 Hypothesis Testing \nPopulation vs Sample \n \nSampling Techniques \n \nHypothesis Testing: Null & Alternate Hypotheses \n \np-values, Significance Levels (\u03b1) \n \nT-tests & Chi-Square Test (Intuition only, no heavy math) \n \nQ1. A coin is tossed 50 times and shows 30 heads. State the null and alternate hypotheses to check if the coin \nis fair. \nQ2. A factory claims its bulbs last 1000 hours on average. Formulate the null and alternate hypotheses for \ntesting this claim. \nQ3. A new teaching method is applied to a class. Formulate hypotheses to test whether the new method \nimproves average student marks. \nQ4. A company claims 40% of customers prefer online shopping. Formulate hypotheses to test this claim. \nQ5. If a hypothesis test gives p-value = 0.03 and \ud835\udefc=0.05, should you reject the null hypothesis? \nQ6. If a test gives p-value = 0.15 and \ud835\udefc = 0.05, what is your decision about the null hypothesis?",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::11",
+        "section": "Week 7: Inferential Statistics \u2013 Hypothesis Testing"
+      }
+    },
+    {
+      "page_content": "Q5. If a hypothesis test gives p-value = 0.03 and \ud835\udefc=0.05, should you reject the null hypothesis? \nQ6. If a test gives p-value = 0.15 and \ud835\udefc = 0.05, what is your decision about the null hypothesis? \nQ7. Explain what it means if p-value < \u03b1 in hypothesis testing.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::12",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q8. If \ud835\udefc = 0.01, what is the confidence level of the test? \nQ9. You have the heights of 10 male and 10 female students. Which test will you perform to check if their \naverage heights are different? \nQ10. A training program is introduced. Employee performance is measured before and after. Which T-test will \ncheck if the program improved performance? \nQ11. You roll a dice 120 times and record how many times each number appears. Use a Chi-Square test to \ncheck if the dice is fair. \nQ12. A chips brand claims the average packet weight is 50g. You weigh 10 random packets: \n[49, 52, 51, 50, 48, 49, 50, 51, 52, 50] \nUse a One-Sample T-Test to check if the claim is true. \nQ13. A hospital claims a new medicine has a 70% success rate. In a trial of 20 patients, 12 recovered. \nUse a proportion test to check if the success rate matches the claim. \nQ14. A survey of 30 people records gender (Male/Female) and favorite drink (Tea/Coffee). \nPerform a Chi-Square test to check if drink preference depends on gender. \nQ15. A factory claims its bulbs last 1000 hours on average. You test 8 bulbs: \n[980, 1005, 995, 1010, 1000, 985, 1020, 990] \nUse a One-Sample T-Test to verify the claim. \n \n \n \nStep 3: Data Preprocessing & Visualization (Week 9\u201311) \n \nVideos - Numpy - https://www.youtube.com/watch?v=Utgwk0r9Zq4&t=365s \n Pandas - https://www.youtube.com/watch?v=QUaSmqBeR9w \n Visualization - https://www.youtube.com/watch?v=-jTD74eEy2I&t=5057s \n \n\"Now that you understand data, learn to clean and visualize it.\" \n \nWeek 9: Data Cleaning \u2013 Missing Values, Outliers, Encoding, Scaling",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::13",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "\"Now that you understand data, learn to clean and visualize it.\" \n \nWeek 9: Data Cleaning \u2013 Missing Values, Outliers, Encoding, Scaling \nIdentifying & Handling Missing Data (drop, fill, impute)",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::14",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Detecting & Treating Outliers (IQR, Z-score) \n \nEncoding Categorical Variables (Label, One-Hot) \n \nFeature Scaling (Min-Max, Standardization) \nQ1. Count how many missing values are in a DataFrame. \nQ2. Show which values are missing in a DataFrame (True/False). \nQ3. Remove all rows with missing values. \nQ4. Fill missing values in a column with 0. \nQ5. Fill missing values in a column with \"Not Available\". \nQ6. Print the maximum and minimum value of a column. \nQ7. Find values in a column that are greater than 100. \nQ8. Replace all values greater than 100 with 100. \nQ9. Sort a column to check for extreme values. \nQ10. Remove the highest value from a numeric column. \nQ11. Convert column Gender with Male/Female into 0/1. \nQ12. Create separate columns for each City from a City column. \nQ13. Count how many times each category appears in a column. \nQ14. Change all values in a column to lowercase. \nQ15. Divide all values in a numeric column by 100. \nQ16. Subtract the minimum value from a numeric column. \nQ17. Convert all column values to range 0 to 1 manually. \nQ18. Show the mean and standard deviation of a numeric column. \nQ19. Subtract column mean from each value (basic standardization). \nQ20. Round all values in a numeric column to 2 decimals.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 9,
+        "page_label": "10",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 10,
+        "parent_id": "Python.pdf::15",
+        "section": "Encoding Categorical Variables (Label, One-Hot)"
+      }
+    },
+    {
+      "page_content": "Week 10: pandas + numpy Deep Dive \u2013 DataFrames, Aggregations, Joins \npandas for DataFrames (create, read, filter, modify) \n \nAggregations (groupby, agg, pivot_table) \n \nMerging & Joining multiple datasets \n \nnumpy for numerical operations (arrays, stats, reshaping) \nQ1. Create a DataFrame of 5 students with columns: Name, Age, Marks. \nQ2. Display the first 3 rows and last 2 rows of the DataFrame. \nQ3. Show the shape of the DataFrame (rows \u00d7 columns). \nQ4. Access only the Name column from the DataFrame. \nQ5. Filter all rows where Marks are greater than 50. \nQ6. Add a new column Result with values: \"Pass\" or \"Fail\". \nQ7. Update the Marks of the first student to 95. \nQ8. Delete the Result column from the DataFrame. \nQ9. Sort the DataFrame by Marks in descending order. \nQ10. Count the number of unique names in the Name column. \nQ11. Create a DataFrame of Sales with columns: Region, Product, Sales. \nQ12. Calculate the total sales. \nQ13. Calculate the average sales per product. \nQ14. Count how many times each product appears in the dataset. \nQ15. Find maximum and minimum sales per region using groupby and agg. \nQ16. Create a pivot table showing total sales per Region vs Product. \nQ17. Create a pivot table showing average sales per Region. \nQ18. Create a NumPy array of numbers from 1 to 10. \nQ19. Find the sum, mean, and standard deviation of the array. \nQ20. Reshape an array of numbers from 1 to 12 into a 3\u00d74 matrix. \nQ21. Create a 2D NumPy array of random integers (3\u00d73).",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 10,
+        "page_label": "11",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 11,
+        "parent_id": "Python.pdf::16",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q22. Find the sum of each row and sum of each column. \nQ23. Multiply two 3\u00d73 matrices using NumPy. \nQ24. Find the maximum and minimum value in the array and their indices. \nQ25. Slice a NumPy array to get only even numbers. \n \n \n \nWeek 11: Data Visualization \u2013 matplotlib, seaborn, EDA Techniques \nmatplotlib basics: Line, Bar, Scatter, Pie \n \nseaborn for advanced plots: Heatmaps, Boxplots, Pairplots \n \nExploratory Data Analysis (EDA): Identify trends & patterns \n \nVisual Storytelling: Making insights clear \nQ1. Create a dataset with the following columns-> Products,Regions,Sales,Profit and 10 rows: \nQ2. Plot a line chart of Sales for all 10 rows (index as X-axis). \nQ3. Plot a bar chart showing total sales for each product. \nQ4. Plot a scatter plot of Sales vs Profit. \nQ5. Create a pie chart showing total sales by region. \nQ6. Plot a histogram of the Sales column. \nQ7. Create a boxplot of Profit to detect outliers. \nQ8. Create a countplot showing how many products are sold in each region. \nQ9. Create a heatmap to show correlation between Sales and Profit. \nQ10. Show total and average sales per region using pandas.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 11,
+        "page_label": "12",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 12,
+        "parent_id": "Python.pdf::17",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Step 4: SQL (Week 11\u201313) \n\"Welcome to the world of real-world data \u2013 learn to query like a pro.\" \n \nWeek 12: Basics \u2013 SELECT , WHERE, ORDER BY , LIMIT , Aliasing \nIntroduction to Databases & SQL \n \nSELECT statements to retrieve data \n \nFiltering with WHERE (AND, OR, BETWEEN, IN, LIKE) \n \nSorting results with ORDER BY \n \nLimiting results with LIMIT & OFFSET \n \nAliasing columns and tables \nQ1. Create and Insert Data. Create a table named Employees with the following columns: \nEmployeeID,Name,Department,Salary,JoiningDate. \nQ2. Select all columns from the Employees table. \nQ3. Display only Name and Department columns. \nQ4. Show all employees who work in the IT department. \nQ5. Retrieve employees with a Salary greater than 45,000. \nQ6. Show employees who joined after 2020-01-01. \nQ7. Retrieve employees with a salary between 40,000 and 55,000. \nQ8. Display employees whose department is either HR or Finance. \nQ9. Retrieve employees whose name starts with 'S'. \nQ10. Show employees whose name ends with 'a'. \nQ11. Display employees ordered by salary in descending order. \nQ12. Display the first 3 employees based on joining date. \nQ13. Retrieve employees skipping the first 2 rows using OFFSET.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 12,
+        "page_label": "13",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 13,
+        "parent_id": "Python.pdf::18",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q14. Show employee names as Employee_Name using alias. \nQ15. Display Department as Dept and Salary as Income. \nQ16. Combine aliasing with sorting: Show top 3 highest paid employees with columns Employee_Name and \nIncome. \nQ17. Find the highest salary in the Employees table. \nQ18. Find the total number of employees in each department. \nQ19. Show the average salary of all employees. \nQ20. Display the employee(s) with the lowest salary. \n \n \nWeek 13: GROUP BY , HAVING, Joins (Inner, Left, Right, Full), Subqueries \nGROUP BY & Aggregation functions (SUM, AVG, COUNT, MAX, MIN) \n \nFiltering groups with HAVING \n \nINNER, LEFT, RIGHT, FULL Joins \u2013 Combining multiple tables \n \nWriting Subqueries for filtering and aggregations \nQ1. Count how many employees are in each Department. \nQ2. Find the average salary per department. \nQ3. Show the highest and lowest salary in each department. \nQ4. Show the total salary paid per department. \nQ5. Count how many employees joined in each year (use YEAR(JoiningDate)). \nQ6. Find departments that have more than 1 employee. \nQ7. Find departments where average salary > 50,000. \nQ8. Find joining years where more than 2 employees joined. \nQ9. Perform an INNER JOIN to show Employee Name with their Department Manager. \nQ10. Perform a LEFT JOIN to list all employees and their managers, even if manager info is missing. \nQ11. Show total salary per department using JOIN + GROUP BY .",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 13,
+        "page_label": "14",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 14,
+        "parent_id": "Python.pdf::19",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Q12. Find the employee with the highest salary using a subquery. \nQ13. Find all employees who earn more than the average salary. \nQ14. Find the second highest salary using a subquery. \nQ15. Find employees who joined after the employee with the lowest salary. \nQ16. List all departments that have any employee earning more than 60,000. \nQ17. Find the total number of employees and total salary in each department. \nQ18. List all employees whose salary is the maximum in their department. \nQ19. Show all departments where no employee earns less than 45,000 (use HAVING). \nQ20. Find employees whose joining year is the same as any HR department employee (use subquery). \n \n \n \n \nWeek 14: Advanced SQL \u2013 Window Functions, CTEs, Nested Queries + Projects \nWindow Functions (ROW_NUMBER, RANK, DENSE_RANK, PARTITION BY) \n \nCommon Table Expressions (CTEs) \n \nNested Queries for complex filtering \n \nBuilding end-to-end SQL queries \n \nMini Projects: \n \nProject 1: Analyze an E-commerce dataset: Top-selling products, most active customers, revenue trends. \n \nProject 2: Build a Student Management Dashboard using SQL: Average scores, top performers, pass/fail stats.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 14,
+        "page_label": "15",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 15,
+        "parent_id": "Python.pdf::20",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Step 5: Machine Learning (Week 15\u201321) \n \n \nVideos - https://youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5&si=zPjf0Wb98hFbaYLx \n \n \n\"Now you're the magician \u2013 build models, make predictions, automate decisions.\" \n \nWeek 15: Intro to ML + Linear Regression \nWhat is Machine Learning? (Types: Supervised, Unsupervised, Reinforcement) \n \nUnderstanding Features & Labels \n \nSimple & Multiple Linear Regression \n \nImplementing Linear Regression with scikit-learn \nMini Projects: \n \nProject 1: Predict Student Exam Scores: Predict a student\u2019s exam score based on study hours and other \nfeatures like parental education and lunch type. \n \nProject 2: House Price Prediction: Predict the price of a house using features like area, number of bedrooms, \nand bathrooms. \n \n \nWeek 16: Classification (Logistic Regression, KNN) \nLogistic Regression (Binary & Multiclass)",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 15,
+        "page_label": "16",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 16,
+        "parent_id": "Python.pdf::21",
+        "section": "Step 5: Machine Learning (Week 15\u201321)"
+      }
+    },
+    {
+      "page_content": "K-Nearest Neighbors (KNN) \u2013 Concept & Implementation \n \nDecision Boundaries & Model Interpretability \nProject 1: Predict Student Pass/Fail using Study Hours and Scores \nProject 2: Classify Iris Flowers into 3 Species using Petal and Sepal Measurements \nProject 3: Predict if a Person has Diabetes based on Health Metrics (PIMA Diabetes Dataset) \nProject 4: Classify Titanic Passengers as Survived or Not Survived based on Age, Gender, and Class \n \n \n \n \n \nWeek 17: Decision Tree, Random Forest \nDecision Trees: Splitting Criteria (Gini, Entropy) \n \nOverfitting & Pruning Techniques \n \nRandom Forests \u2013 Bagging & Feature Importance \nProject 1: Predict Mushroom Type (Edible or Poisonous) using Physical Features (Mushroom Dataset) \nProject 2: Classify Mobile Price Range (Low/Medium/High) based on Technical Specifications \n \n \nWeek 18: SVM, Naive Bayes \nSupport Vector Machines: Margins & Kernels \n \nGaussian Naive Bayes: Probabilistic Classification \n \nWhen to use SVM vs Naive Bayes \nProject 1: Classify Emails as Spam or Not Spam using the SpamBase Dataset",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 16,
+        "page_label": "17",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 17,
+        "parent_id": "Python.pdf::22",
+        "section": "Decision Boundaries & Model Interpretability"
+      }
+    },
+    {
+      "page_content": "Project 2: Predict Handwritten Digits (0\u20139) using the MNIST Dataset \n \n \nWeek 19: Clustering (K-Means, DBSCAN) \nK-Means Clustering \u2013 Centroids & Inertia \n \nDBSCAN for density-based clustering \n \nChoosing K (Elbow Method, Silhouette Score) \nProject 1: Customer Segmentation using Mall Customers Dataset \nProject 2: Group Similar Movies based on Ratings or Features using MovieLens Dataset \n \n \n \n \nWeek 20: Model Evaluation \u2013 Confusion Matrix, Accuracy, Precision, Recall, ROC \nConfusion Matrix & Classification Metrics \n \nPrecision, Recall, F1-Score \u2013 Tradeoffs \n \nROC Curve & AUC \n \nPractice: \n \nProject 1: Predict Loan Approval using the Loan Prediction Dataset \nProject 2: Diagnose Diabetes using the Pima Indians Diabetes Dataset \n \n \nWeek 21: Cross-Validation, Hyperparameter Tuning + Mini ML Project",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 17,
+        "page_label": "18",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 18,
+        "parent_id": "Python.pdf::23",
+        "section": "K-Means Clustering \u2013 Centroids & Inertia"
+      }
+    },
+    {
+      "page_content": "K-Fold Cross Validation \n \nGrid Search & Random Search for Hyperparameter Tuning \n \nWrap-up: Build a mini end-to-end ML project \n \n \nMini Project: Build a model to predict employee attrition (classification) or house prices (regression). \n \n \n \n \nStep 6: Deep Learning (Week 22\u201325) \n\"Let\u2019s mimic the human brain \u2014 welcome to neural networks.\" \n \nWeek 22: Basics \u2013 Perceptron, Activation Functions, Forward + Backprop \nWhat is a Neural Network? \n \nPerceptron: The simplest neuron \n \nActivation Functions: Sigmoid, ReLU, Tanh, Softmax \n \nForward Propagation \u2013 How predictions are made \n \nBackpropagation \u2013 How networks learn \nQ1. Compute the Sigmoid, ReLU, and Tanh values for the array [-2, -1, 0, 1, 2]. \nQ2. Calculate the weighted sum and Sigmoid activation for input [2,3] with weights [0.5,0.2] and bias 0.1. \nQ3. Implement a perceptron to simulate the AND gate. \nQ4. Compute the Mean Squared Error (MSE) for y_true=[1,0,1,0] and y_pred=[0.8,0.2,0.9,0.1].",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 18,
+        "page_label": "19",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 19,
+        "parent_id": "Python.pdf::24",
+        "section": "K-Fold Cross Validation"
+      }
+    },
+    {
+      "page_content": "Q5. Perform one step of weight update for a single neuron using gradient descent (manual backprop). \nQ6. Plot the Sigmoid, ReLU, and Tanh functions for values from -5 to 5. \nQ7. Create a step activation function and test it on input [0.2, -0.3, 1.5, -2]. \nQ8. Calculate the derivative of the Sigmoid function for input [0,1,2]. \nQ9. Initialize random weights and biases for a single neuron with 3 inputs. \nQ10. Compute the output of a perceptron for OR gate using randomly initialized weights and a step activation \nfunction. \n \nWeek 23: ANN (TensorFlow/Keras) \u2013 Build from scratch + Keras implementation \nBuilding a Neural Network from scratch using NumPy \n \nIntroduction to TensorFlow & Keras \n \nDefining models, compiling, training, and evaluating \n \nHands-on: Predicting house prices or MNIST digits \nProject 1: Predict house prices using a simple Artificial Neural Network (Boston Housing Dataset \u2013 available in \nsklearn.datasets). \nProject 2: Classify handwritten digits using ANN (MNIST Dataset \u2013 available in Keras). \n \nWeek 24: CNN \u2013 Image Data, Filters, Pooling, Image Classification \nConvolution: Filters & Feature Maps \n \nPooling (Max, Average) & Flattening \n \nBuilding CNNs for Image Classification \n \nUsing Pre-trained Models (Transfer Learning) \nProject 1: Classify handwritten digits using CNN (MNIST Dataset \u2013 available in Keras).",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 19,
+        "page_label": "20",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 20,
+        "parent_id": "Python.pdf::25",
+        "section": ""
+      }
+    },
+    {
+      "page_content": "Project 2: Build a CNN to classify cats vs dogs (Kaggle: \u201cDogs vs Cats\u201d dataset). \n \nWeek 25 : RNN \u2013 Sequential Data, LSTM/GRU + DL Project \nRecurrent Neural Networks: Why we need them \n \nLSTM & GRU \u2013 Handling long-term dependencies \n \nSequence data examples: Text, Time-series \n \nEnd-to-End Deep Learning Project \nProject 1: Predict next words in a sentence using LSTM (Text Generation on small dataset). \nProject 2: Stock price prediction using LSTM on historical stock data. \n \n Step 7: Specialization (Week 25\u201326) \n\u201cNow choose your path: become a domain expert.\u201d \n \nWeek 25: Choose 1 track \u2014 \n \nNLP (Text, Sentiment, Transformers) \n \nCV (Computer Vision) \n \nBI Tools (Power BI/Tableau) \n \nData Engineering (Airflow, ETL) \n \nWeek 26: Build & deploy a capstone project + Make GitHub portfolio + Resume prep",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 20,
+        "page_label": "21",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 21,
+        "parent_id": "Python.pdf::26",
+        "section": "Step 7: Specialization (Week 25\u201326)"
+      }
+    }
+  ],
+  "children": [
+    {
+      "page_content": "180-Day Data Science Journey \n(Beginner to Expert) \n \nWelcome to your 6-month roadmap to become a Data Scientist. You're not just learning you're \nleveling up. Let's break it down week by week. \n \nPhase 1: Python (Week 1\u20134) \n\u201cLay your foundation \u2014 this is your weapon for everything ahead.\u201d \nWeek 1: Basics \u2013 Variables, Data Types, Input/Output, Loops, Conditionals",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 0,
+        "page_label": "1",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 1,
+        "parent_id": "Python.pdf::0",
+        "section": "180-Day Data Science Journey",
+        "chunk_id": "Python.pdf::0::0"
+      }
+    },
+    {
+      "page_content": "Q1. Write a Python program to swap two variables. \nQ2. Take user input and display it back to the user. \nQ3. Write a program to check if a number is even or odd. \nQ4. Create a program that prints the multiplication table of a given number. \nQ5. Write a program to find the largest of three numbers. \nQ6. Convert temperature from Celsius to Fahrenheit.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 0,
+        "page_label": "1",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 1,
+        "parent_id": "Python.pdf::0",
+        "section": "180-Day Data Science Journey",
+        "chunk_id": "Python.pdf::0::1"
+      }
+    },
+    {
+      "page_content": "Q6. Convert temperature from Celsius to Fahrenheit. \nQ7. Write a program to calculate the factorial of a number using a loop. \nQ8. Create a program to count the number of vowels in a string. \nQ9. Write a Python script to reverse a given string. \nQ10. Check if a number is a palindrome. \nQ11. Write a program to find the sum of first N natural numbers. \nQ12. Create a number guessing game.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 0,
+        "page_label": "1",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 1,
+        "parent_id": "Python.pdf::0",
+        "section": "180-Day Data Science Journey",
+        "chunk_id": "Python.pdf::0::2"
+      }
+    },
+    {
+      "page_content": "Q12. Create a number guessing game. \nQ13. Write a program to print all prime numbers between 1 and 100. \nQ14. Check if a given year is a leap year or not. \nQ15. Create a program to print the Fibonacci series up to N terms. \nQ16. Write a program to find the GCD of two numbers. \nQ17. Write a program to find the LCM of two numbers. \nQ18. Check whether a character is a vowel or consonant.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 0,
+        "page_label": "1",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 1,
+        "parent_id": "Python.pdf::0",
+        "section": "180-Day Data Science Journey",
+        "chunk_id": "Python.pdf::0::3"
+      }
+    },
+    {
+      "page_content": "Q18. Check whether a character is a vowel or consonant. \nQ19. Write a program to calculate the sum of digits of a number.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 0,
+        "page_label": "1",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 1,
+        "parent_id": "Python.pdf::0",
+        "section": "180-Day Data Science Journey",
+        "chunk_id": "Python.pdf::0::4"
+      }
+    },
+    {
+      "page_content": "Q20. Create a program to find the second largest number in a list. \nQ21. Write a program to count the number of digits in an integer. \nQ22. Create a program to print all Armstrong numbers between 1 to 1000. \nQ23. Write a Python program to print a pattern of stars in a triangle. \nQ24. Create a calculator app using if-else. \nQ25. Write a program to display the ASCII value of a character.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 1,
+        "page_label": "2",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 2,
+        "parent_id": "Python.pdf::1",
+        "section": "Week 2: Functions, Lists, Tuples, Dictionaries, Sets",
+        "chunk_id": "Python.pdf::1::0"
+      }
+    },
+    {
+      "page_content": "Q26. Convert a decimal number to binary using loops. \nQ27. Create a program to find the square root of a number. \nQ28. Write a program to find the sum of all even numbers in a list. \nQ29. Create a program to check whether a number is prime or not. \nQ30. Write a program to display the cube of the number up to an integer. \n \n \n \nWeek 2: Functions, Lists, Tuples, Dictionaries, Sets",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 1,
+        "page_label": "2",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 2,
+        "parent_id": "Python.pdf::1",
+        "section": "Week 2: Functions, Lists, Tuples, Dictionaries, Sets",
+        "chunk_id": "Python.pdf::1::1"
+      }
+    },
+    {
+      "page_content": "Week 2: Functions, Lists, Tuples, Dictionaries, Sets \n \n1. Write a function to check if a number is even. \n2. Create a list and find the sum of all its elements. \n3. Write a program to find the maximum and minimum in a list. \n4. Create a program that removes duplicates from a list. \n5. Write a function to reverse a list. \n6. Create a tuple and access its elements.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 1,
+        "page_label": "2",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 2,
+        "parent_id": "Python.pdf::1",
+        "section": "Week 2: Functions, Lists, Tuples, Dictionaries, Sets",
+        "chunk_id": "Python.pdf::1::2"
+      }
+    },
+    {
+      "page_content": "6. Create a tuple and access its elements. \n7. Convert a list into a tuple and vice versa. \n8. Write a program to merge two dictionaries. \n9. Write a function to count the frequency of elements in a list. \n10. Create a dictionary of squares of numbers from 1 to 10. \n11. Write a program to sort a list in ascending order. \n12. Create a program to check if a key exists in a dictionary.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 1,
+        "page_label": "2",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 2,
+        "parent_id": "Python.pdf::1",
+        "section": "Week 2: Functions, Lists, Tuples, Dictionaries, Sets",
+        "chunk_id": "Python.pdf::1::3"
+      }
+    },
+    {
+      "page_content": "13. Create a set and perform union, intersection, and difference.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 1,
+        "page_label": "2",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 2,
+        "parent_id": "Python.pdf::1",
+        "section": "Week 2: Functions, Lists, Tuples, Dictionaries, Sets",
+        "chunk_id": "Python.pdf::1::4"
+      }
+    },
+    {
+      "page_content": "14. Write a function to find common elements in two lists. \n15. Write a function that returns the factorial of a number. \n16. Create a function that checks whether a string is a palindrome. \n17. Write a function to count vowels in a string. \n18. Create a dictionary and iterate over its keys and values. \n19. Write a function to remove all punctuation from a string.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::2",
+        "section": "",
+        "chunk_id": "Python.pdf::2::0"
+      }
+    },
+    {
+      "page_content": "20. Write a function to capitalize the first letter of each word in a string. \n21. Create a list comprehension to get squares of all even numbers in a range. \n22. Write a function to check if a string is an anagram. \n23. Create a nested dictionary to represent student records. \n24. Write a function to flatten a nested list. \n25. Write a program to find the second highest number in a list.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::2",
+        "section": "",
+        "chunk_id": "Python.pdf::2::1"
+      }
+    },
+    {
+      "page_content": "26. Create a function to rotate a list left by k positions. \n27. Write a function to find the missing number from a list of 1 to N. \n28. Write a program to remove all None values from a list. \n29. Write a function to merge two dictionaries and handle key collisions by summing values. \n30. Create a function to find unique elements present in only one of two lists.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::2",
+        "section": "",
+        "chunk_id": "Python.pdf::2::2"
+      }
+    },
+    {
+      "page_content": "Week 3: File Handling, Error Handling, Modules, Comprehensions \n \nQ1. Write a Python script to read a file and print its contents. \nQ2. Create a file and write your name into it. \nQ3. Handle a ZeroDivisionError using try-except. \nQ4. Write a program to handle file not found error. \nQ5. Create a module with a function and import it in another file.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::2",
+        "section": "",
+        "chunk_id": "Python.pdf::2::3"
+      }
+    },
+    {
+      "page_content": "Q6. Use a list comprehension to filter even numbers from a list.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::2",
+        "section": "",
+        "chunk_id": "Python.pdf::2::4"
+      }
+    },
+    {
+      "page_content": "Q4. Write a program to handle file not found error. \nQ5. Create a module with a function and import it in another file. \nQ6. Use a list comprehension to filter even numbers from a list. \nQ7. Write a generator that yields even numbers up to N. \nQ8. Create a program to count lines and words in a file.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 2,
+        "page_label": "3",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 3,
+        "parent_id": "Python.pdf::3",
+        "section": "",
+        "chunk_id": "Python.pdf::3::0"
+      }
+    },
+    {
+      "page_content": "Q9. Write a program to read a CSV file and print its contents. \nQ10. Handle multiple exceptions in a single try block. \n \nWeek 4: OOPs Concepts + Solve 50\u2013100 Logic Building Problems \n \nQ1. Write a Python program to check if a string has all unique characters. \nQ2. Create a program that removes all duplicate characters from a string.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::4",
+        "section": "",
+        "chunk_id": "Python.pdf::4::0"
+      }
+    },
+    {
+      "page_content": "Q3. Write a script to count the frequency of each character in a string. \nQ4. Write a program that accepts a sentence and calculates the number of upper and lower case letters. \nQ5. Create a program to find the longest word in a sentence. \nQ6. Write a program that takes a string and returns the string in reverse order without using [::-1].",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::4",
+        "section": "",
+        "chunk_id": "Python.pdf::4::1"
+      }
+    },
+    {
+      "page_content": "Q7. Create a Python function to check if a string is a pangram. \nQ8. Write a Python script to sort words in a sentence alphabetically. \nQ9. Write a program to check if two strings are anagrams. \nQ10. Write a Python program to capitalize the first letter of each word in a sentence. \nQ11. Create a program that extracts numbers from a string and returns their sum.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::4",
+        "section": "",
+        "chunk_id": "Python.pdf::4::2"
+      }
+    },
+    {
+      "page_content": "Q12. Write a program to replace all spaces in a string with underscores. \nQ13. Write a function to count how many times a substring appears in a string. \nQ14. Write a script to convert a string into title case without using .title(). \nQ15. Write a Python program to merge two dictionaries into one. \nQ16. Create a program to filter out all non-alphabetic characters from a string.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::4",
+        "section": "",
+        "chunk_id": "Python.pdf::4::3"
+      }
+    },
+    {
+      "page_content": "Q17. Write a function that returns True if a string ends with a given suffix. \nQ18. Create a program that counts words, characters, and lines in a paragraph.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::4",
+        "section": "",
+        "chunk_id": "Python.pdf::4::4"
+      }
+    },
+    {
+      "page_content": "Q17. Write a function that returns True if a string ends with a given suffix. \nQ18. Create a program that counts words, characters, and lines in a paragraph. \nQ19. Write a script to encode a string using Caesar cipher (shift = 3). \nQ20. Write a program that accepts a string and counts vowels and consonants. \nQ21. Create a script to convert binary string to decimal.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::5",
+        "section": "",
+        "chunk_id": "Python.pdf::5::0"
+      }
+    },
+    {
+      "page_content": "Q21. Create a script to convert binary string to decimal. \nQ22. Write a program to count the number of words starting with a vowel in a string. \nQ23. Create a script that takes a sentence and removes all stop words. \nQ24. Write a Python program to split a sentence into words and reverse each word.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 3,
+        "page_label": "4",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 4,
+        "parent_id": "Python.pdf::5",
+        "section": "",
+        "chunk_id": "Python.pdf::5::1"
+      }
+    },
+    {
+      "page_content": "Q25. Write a function that returns a new string made of every third character of the original string. \nQ26. Write a program to find all palindromic substrings in a string. \nQ27. Write a function that compresses a string using run-length encoding. \nQ28. Write a Python program to count the frequency of each word in a file. \nQ29. Write a script that extracts hashtags from a tweet.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::6",
+        "section": "",
+        "chunk_id": "Python.pdf::6::0"
+      }
+    },
+    {
+      "page_content": "Q29. Write a script that extracts hashtags from a tweet. \nQ30. Write a function to remove punctuation from a string. \nQ31. Create a program that finds the first non-repeating character in a string. \nQ32. Write a script that converts camelCase to snake_case. \nQ33. Write a function to generate acronyms from a sentence. \nQ34. Write a script to check if a file contains a specific word.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::6",
+        "section": "",
+        "chunk_id": "Python.pdf::6::1"
+      }
+    },
+    {
+      "page_content": "Q35. Write a Python program to find and replace text in a file. \nQ36. Write a script that checks if all characters in a string are digits. \nQ37. Write a program to calculate the average word length in a sentence. \nQ38. Create a function that removes all HTML tags from a string. \nQ39. Write a program to parse a date string and display it in a different format.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::6",
+        "section": "",
+        "chunk_id": "Python.pdf::6::2"
+      }
+    },
+    {
+      "page_content": "Q40. Write a script that finds all email addresses in a given text. \nQ41. Write a program that counts the occurrence of each vowel in a paragraph. \nQ42. Create a function that validates an email address format. \nQ43. Write a script to check if a string is a valid URL. \nQ44. Write a program that extracts all integers from a given text. \nQ45. Create a script to find duplicate words in a paragraph.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::6",
+        "section": "",
+        "chunk_id": "Python.pdf::6::3"
+      }
+    },
+    {
+      "page_content": "Q46. Write a program that converts a sentence to Pig Latin.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::6",
+        "section": "",
+        "chunk_id": "Python.pdf::6::4"
+      }
+    },
+    {
+      "page_content": "Q44. Write a program that extracts all integers from a given text. \nQ45. Create a script to find duplicate words in a paragraph. \nQ46. Write a program that converts a sentence to Pig Latin. \nQ47. Write a script that finds the longest sentence in a paragraph. \nQ48. Write a Python program to read a file and display all lines that contain a given keyword.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::7",
+        "section": "",
+        "chunk_id": "Python.pdf::7::0"
+      }
+    },
+    {
+      "page_content": "Q49. Write a script to clean a text file by removing extra spaces and blank lines. \nQ50. Write a Python program to count how many sentences are in a paragraph. \n \n \nLearn Python using this video - https://www.youtube.com/watch?v=_aWbUudZ5Yo",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 4,
+        "page_label": "5",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 5,
+        "parent_id": "Python.pdf::7",
+        "section": "",
+        "chunk_id": "Python.pdf::7::1"
+      }
+    },
+    {
+      "page_content": "Step 2: Maths (Week 5\u20138) \n\"Understand the numbers \u2014 because Data Science is 80% about interpreting data correctly.\" \n \nRecommended Resource: Watch our 5-hour full Statistics session on Sheryians AI School (YouTube) \u2014 \nhttps://www.youtube.com/watch?v=eF7HoC-cLRM&t=17267s \n \n \nWeek 5: Statistics Basics \u2013 Descriptive Statistics \nMean, Median, Mode \u2013 Concepts & Formulas",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 5,
+        "page_label": "6",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 6,
+        "parent_id": "Python.pdf::8",
+        "section": "Step 2: Maths (Week 5\u20138)",
+        "chunk_id": "Python.pdf::8::0"
+      }
+    },
+    {
+      "page_content": "Mean, Median, Mode \u2013 Concepts & Formulas \n \nVariance & Standard Deviation \u2013 Why do we need them? \n \nRange, Quartiles, IQR \n \nUnderstanding Data Distribution (Normal vs Skewed) \n \nHands-on with Python: mean(), median(), std(), describe() in NumPy & Pandas \n \nQ1. Create a NumPy array of 10 random integers between 1 and 100. Find its mean.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 5,
+        "page_label": "6",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 6,
+        "parent_id": "Python.pdf::8",
+        "section": "Step 2: Maths (Week 5\u20138)",
+        "chunk_id": "Python.pdf::8::1"
+      }
+    },
+    {
+      "page_content": "Q2. Calculate the median of the array: [10, 5, 8, 12, 3, 7]. \nQ3. Generate an array of 15 random numbers between 1 and 50. Find its standard deviation. \nQ4. Create a 3x3 array with values from 1 to 9. Find the row-wise mean. \nQ5. For the array [4, 6, 8, 10, 12], calculate mean, median, std. \nQ6. Generate a 5x5 NumPy array of random integers (0 to 100). Find the overall mean.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 5,
+        "page_label": "6",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 6,
+        "parent_id": "Python.pdf::8",
+        "section": "Step 2: Maths (Week 5\u20138)",
+        "chunk_id": "Python.pdf::8::2"
+      }
+    },
+    {
+      "page_content": "Q7. Create an array of 50 random integers and calculate the standard deviation. \nQ8. Find indices of non-zero elements from [1,2,0,0,4,0] \nQ9. You have an 2D array, print array element [[7,4]]:",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 5,
+        "page_label": "6",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 6,
+        "parent_id": "Python.pdf::8",
+        "section": "Step 2: Maths (Week 5\u20138)",
+        "chunk_id": "Python.pdf::8::3"
+      }
+    },
+    {
+      "page_content": "[[2,3,4 \n 5,7,4 \n 8,9,0]] \nQ10. Create 2 array of 2-Dimension and then perform matrix multiplication on them. \n \nWeek 6: Probability & Combinatorics \nBasic Probability Rules (Addition, Multiplication) \n \nConditional Probability & Bayes Theorem \n \nPermutations & Combinations (Simple problems) \n \nExpected Value & Real-World Examples",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::9",
+        "section": "Week 6: Probability & Combinatorics",
+        "chunk_id": "Python.pdf::9::0"
+      }
+    },
+    {
+      "page_content": "Expected Value & Real-World Examples \nQ1. A dice is thrown once. Find the probability of getting a 2 or 5. \nQ2. A card is drawn from a deck of 52 cards. Find the probability of getting a red card or a king. \nQ3. A number is chosen from 1 to 10. Find the probability that the number is even or divisible by 3.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::9",
+        "section": "Week 6: Probability & Combinatorics",
+        "chunk_id": "Python.pdf::9::1"
+      }
+    },
+    {
+      "page_content": "Q4. In a bag, there are 3 red and 2 blue balls. A ball is drawn randomly. Find the probability of getting a red ball \nor a blue ball. \nQ5. A spinner has 6 equal parts numbered 1 to 6. Find the probability of spinning a 1 or 6. \nQ6. A card is drawn twice with replacement. Find the probability that both cards are spades.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::9",
+        "section": "Week 6: Probability & Combinatorics",
+        "chunk_id": "Python.pdf::9::2"
+      }
+    },
+    {
+      "page_content": "Q7. A card is drawn from a deck and not replaced, then another card is drawn. Find the probability that both \nare aces. \nQ8. A coin is tossed twice. Find the probability of getting head on both tosses. \nQ9. A dice is rolled twice. Find the probability that first die shows 3 and second die shows an even number.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::9",
+        "section": "Week 6: Probability & Combinatorics",
+        "chunk_id": "Python.pdf::9::3"
+      }
+    },
+    {
+      "page_content": "Q10. A bag contains 4 white and 2 black balls. Two balls are drawn without replacement. Find the probability \nthat both are black. \nQ11. A coin is tossed once. Find the probability of getting a tail. \nQ12. A dice is thrown once. Find the probability of getting a number greater than 4",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::9",
+        "section": "Week 6: Probability & Combinatorics",
+        "chunk_id": "Python.pdf::9::4"
+      }
+    },
+    {
+      "page_content": "that both are black. \nQ11. A coin is tossed once. Find the probability of getting a tail. \nQ12. A dice is thrown once. Find the probability of getting a number greater than 4 \nQ13. A card is drawn from a deck. Find the probability that it is a queen or a red card. \nQ14. A box contains 2 red, 3 blue, and 5 green balls. One ball is drawn. Find the probability that it is green.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 6,
+        "page_label": "7",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 7,
+        "parent_id": "Python.pdf::10",
+        "section": "",
+        "chunk_id": "Python.pdf::10::0"
+      }
+    },
+    {
+      "page_content": "Q15. A dice is rolled twice. Find the probability that both numbers are odd. \nQ16. A coin is tossed 3 times. Find the probability of getting exactly 2 heads. \nQ17. A bag has 4 yellow and 1 black ball. A ball is drawn and not replaced, then another ball is drawn. Find the \nprobability that both balls are yellow.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::11",
+        "section": "Week 7: Inferential Statistics \u2013 Hypothesis Testing",
+        "chunk_id": "Python.pdf::11::0"
+      }
+    },
+    {
+      "page_content": "probability that both balls are yellow. \nQ18. Two cards are drawn together from a deck. Find the probability that both are kings. \nQ19. A spinner with 4 equal sections numbered 1 to 4 is spun twice. Find the probability that both spins show \nthe same number. \nQ20. A box has 5 red and 5 blue balls. One ball is drawn at random. Find the probability that it is not blue.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::11",
+        "section": "Week 7: Inferential Statistics \u2013 Hypothesis Testing",
+        "chunk_id": "Python.pdf::11::1"
+      }
+    },
+    {
+      "page_content": "Week 7: Inferential Statistics \u2013 Hypothesis Testing \nPopulation vs Sample \n \nSampling Techniques \n \nHypothesis Testing: Null & Alternate Hypotheses \n \np-values, Significance Levels (\u03b1) \n \nT-tests & Chi-Square Test (Intuition only, no heavy math) \n \nQ1. A coin is tossed 50 times and shows 30 heads. State the null and alternate hypotheses to check if the coin \nis fair.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::11",
+        "section": "Week 7: Inferential Statistics \u2013 Hypothesis Testing",
+        "chunk_id": "Python.pdf::11::2"
+      }
+    },
+    {
+      "page_content": "is fair. \nQ2. A factory claims its bulbs last 1000 hours on average. Formulate the null and alternate hypotheses for \ntesting this claim. \nQ3. A new teaching method is applied to a class. Formulate hypotheses to test whether the new method \nimproves average student marks. \nQ4. A company claims 40% of customers prefer online shopping. Formulate hypotheses to test this claim.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::11",
+        "section": "Week 7: Inferential Statistics \u2013 Hypothesis Testing",
+        "chunk_id": "Python.pdf::11::3"
+      }
+    },
+    {
+      "page_content": "Q5. If a hypothesis test gives p-value = 0.03 and \ud835\udefc=0.05, should you reject the null hypothesis? \nQ6. If a test gives p-value = 0.15 and \ud835\udefc = 0.05, what is your decision about the null hypothesis?",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::11",
+        "section": "Week 7: Inferential Statistics \u2013 Hypothesis Testing",
+        "chunk_id": "Python.pdf::11::4"
+      }
+    },
+    {
+      "page_content": "Q5. If a hypothesis test gives p-value = 0.03 and \ud835\udefc=0.05, should you reject the null hypothesis? \nQ6. If a test gives p-value = 0.15 and \ud835\udefc = 0.05, what is your decision about the null hypothesis? \nQ7. Explain what it means if p-value < \u03b1 in hypothesis testing.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 7,
+        "page_label": "8",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 8,
+        "parent_id": "Python.pdf::12",
+        "section": "",
+        "chunk_id": "Python.pdf::12::0"
+      }
+    },
+    {
+      "page_content": "Q8. If \ud835\udefc = 0.01, what is the confidence level of the test? \nQ9. You have the heights of 10 male and 10 female students. Which test will you perform to check if their \naverage heights are different? \nQ10. A training program is introduced. Employee performance is measured before and after. Which T-test will \ncheck if the program improved performance?",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::13",
+        "section": "",
+        "chunk_id": "Python.pdf::13::0"
+      }
+    },
+    {
+      "page_content": "check if the program improved performance? \nQ11. You roll a dice 120 times and record how many times each number appears. Use a Chi-Square test to \ncheck if the dice is fair. \nQ12. A chips brand claims the average packet weight is 50g. You weigh 10 random packets: \n[49, 52, 51, 50, 48, 49, 50, 51, 52, 50] \nUse a One-Sample T-Test to check if the claim is true.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::13",
+        "section": "",
+        "chunk_id": "Python.pdf::13::1"
+      }
+    },
+    {
+      "page_content": "Use a One-Sample T-Test to check if the claim is true. \nQ13. A hospital claims a new medicine has a 70% success rate. In a trial of 20 patients, 12 recovered. \nUse a proportion test to check if the success rate matches the claim. \nQ14. A survey of 30 people records gender (Male/Female) and favorite drink (Tea/Coffee). \nPerform a Chi-Square test to check if drink preference depends on gender.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::13",
+        "section": "",
+        "chunk_id": "Python.pdf::13::2"
+      }
+    },
+    {
+      "page_content": "Q15. A factory claims its bulbs last 1000 hours on average. You test 8 bulbs: \n[980, 1005, 995, 1010, 1000, 985, 1020, 990] \nUse a One-Sample T-Test to verify the claim. \n \n \n \nStep 3: Data Preprocessing & Visualization (Week 9\u201311) \n \nVideos - Numpy - https://www.youtube.com/watch?v=Utgwk0r9Zq4&t=365s \n Pandas - https://www.youtube.com/watch?v=QUaSmqBeR9w",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::13",
+        "section": "",
+        "chunk_id": "Python.pdf::13::3"
+      }
+    },
+    {
+      "page_content": "Pandas - https://www.youtube.com/watch?v=QUaSmqBeR9w \n Visualization - https://www.youtube.com/watch?v=-jTD74eEy2I&t=5057s \n \n\"Now that you understand data, learn to clean and visualize it.\" \n \nWeek 9: Data Cleaning \u2013 Missing Values, Outliers, Encoding, Scaling",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::13",
+        "section": "",
+        "chunk_id": "Python.pdf::13::4"
+      }
+    },
+    {
+      "page_content": "\"Now that you understand data, learn to clean and visualize it.\" \n \nWeek 9: Data Cleaning \u2013 Missing Values, Outliers, Encoding, Scaling \nIdentifying & Handling Missing Data (drop, fill, impute)",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 8,
+        "page_label": "9",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 9,
+        "parent_id": "Python.pdf::14",
+        "section": "",
+        "chunk_id": "Python.pdf::14::0"
+      }
+    },
+    {
+      "page_content": "Detecting & Treating Outliers (IQR, Z-score) \n \nEncoding Categorical Variables (Label, One-Hot) \n \nFeature Scaling (Min-Max, Standardization) \nQ1. Count how many missing values are in a DataFrame. \nQ2. Show which values are missing in a DataFrame (True/False). \nQ3. Remove all rows with missing values. \nQ4. Fill missing values in a column with 0.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 9,
+        "page_label": "10",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 10,
+        "parent_id": "Python.pdf::15",
+        "section": "Encoding Categorical Variables (Label, One-Hot)",
+        "chunk_id": "Python.pdf::15::0"
+      }
+    },
+    {
+      "page_content": "Q4. Fill missing values in a column with 0. \nQ5. Fill missing values in a column with \"Not Available\". \nQ6. Print the maximum and minimum value of a column. \nQ7. Find values in a column that are greater than 100. \nQ8. Replace all values greater than 100 with 100. \nQ9. Sort a column to check for extreme values. \nQ10. Remove the highest value from a numeric column.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 9,
+        "page_label": "10",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 10,
+        "parent_id": "Python.pdf::15",
+        "section": "Encoding Categorical Variables (Label, One-Hot)",
+        "chunk_id": "Python.pdf::15::1"
+      }
+    },
+    {
+      "page_content": "Q10. Remove the highest value from a numeric column. \nQ11. Convert column Gender with Male/Female into 0/1. \nQ12. Create separate columns for each City from a City column. \nQ13. Count how many times each category appears in a column. \nQ14. Change all values in a column to lowercase. \nQ15. Divide all values in a numeric column by 100. \nQ16. Subtract the minimum value from a numeric column.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 9,
+        "page_label": "10",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 10,
+        "parent_id": "Python.pdf::15",
+        "section": "Encoding Categorical Variables (Label, One-Hot)",
+        "chunk_id": "Python.pdf::15::2"
+      }
+    },
+    {
+      "page_content": "Q16. Subtract the minimum value from a numeric column. \nQ17. Convert all column values to range 0 to 1 manually. \nQ18. Show the mean and standard deviation of a numeric column. \nQ19. Subtract column mean from each value (basic standardization). \nQ20. Round all values in a numeric column to 2 decimals.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 9,
+        "page_label": "10",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 10,
+        "parent_id": "Python.pdf::15",
+        "section": "Encoding Categorical Variables (Label, One-Hot)",
+        "chunk_id": "Python.pdf::15::3"
+      }
+    },
+    {
+      "page_content": "Week 10: pandas + numpy Deep Dive \u2013 DataFrames, Aggregations, Joins \npandas for DataFrames (create, read, filter, modify) \n \nAggregations (groupby, agg, pivot_table) \n \nMerging & Joining multiple datasets \n \nnumpy for numerical operations (arrays, stats, reshaping) \nQ1. Create a DataFrame of 5 students with columns: Name, Age, Marks. \nQ2. Display the first 3 rows and last 2 rows of the DataFrame.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 10,
+        "page_label": "11",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 11,
+        "parent_id": "Python.pdf::16",
+        "section": "",
+        "chunk_id": "Python.pdf::16::0"
+      }
+    },
+    {
+      "page_content": "Q3. Show the shape of the DataFrame (rows \u00d7 columns). \nQ4. Access only the Name column from the DataFrame. \nQ5. Filter all rows where Marks are greater than 50. \nQ6. Add a new column Result with values: \"Pass\" or \"Fail\". \nQ7. Update the Marks of the first student to 95. \nQ8. Delete the Result column from the DataFrame. \nQ9. Sort the DataFrame by Marks in descending order.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 10,
+        "page_label": "11",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 11,
+        "parent_id": "Python.pdf::16",
+        "section": "",
+        "chunk_id": "Python.pdf::16::1"
+      }
+    },
+    {
+      "page_content": "Q9. Sort the DataFrame by Marks in descending order. \nQ10. Count the number of unique names in the Name column. \nQ11. Create a DataFrame of Sales with columns: Region, Product, Sales. \nQ12. Calculate the total sales. \nQ13. Calculate the average sales per product. \nQ14. Count how many times each product appears in the dataset. \nQ15. Find maximum and minimum sales per region using groupby and agg.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 10,
+        "page_label": "11",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 11,
+        "parent_id": "Python.pdf::16",
+        "section": "",
+        "chunk_id": "Python.pdf::16::2"
+      }
+    },
+    {
+      "page_content": "Q16. Create a pivot table showing total sales per Region vs Product. \nQ17. Create a pivot table showing average sales per Region. \nQ18. Create a NumPy array of numbers from 1 to 10. \nQ19. Find the sum, mean, and standard deviation of the array. \nQ20. Reshape an array of numbers from 1 to 12 into a 3\u00d74 matrix. \nQ21. Create a 2D NumPy array of random integers (3\u00d73).",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 10,
+        "page_label": "11",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 11,
+        "parent_id": "Python.pdf::16",
+        "section": "",
+        "chunk_id": "Python.pdf::16::3"
+      }
+    },
+    {
+      "page_content": "Q22. Find the sum of each row and sum of each column. \nQ23. Multiply two 3\u00d73 matrices using NumPy. \nQ24. Find the maximum and minimum value in the array and their indices. \nQ25. Slice a NumPy array to get only even numbers. \n \n \n \nWeek 11: Data Visualization \u2013 matplotlib, seaborn, EDA Techniques \nmatplotlib basics: Line, Bar, Scatter, Pie",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 11,
+        "page_label": "12",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 12,
+        "parent_id": "Python.pdf::17",
+        "section": "",
+        "chunk_id": "Python.pdf::17::0"
+      }
+    },
+    {
+      "page_content": "matplotlib basics: Line, Bar, Scatter, Pie \n \nseaborn for advanced plots: Heatmaps, Boxplots, Pairplots \n \nExploratory Data Analysis (EDA): Identify trends & patterns \n \nVisual Storytelling: Making insights clear \nQ1. Create a dataset with the following columns-> Products,Regions,Sales,Profit and 10 rows: \nQ2. Plot a line chart of Sales for all 10 rows (index as X-axis).",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 11,
+        "page_label": "12",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 12,
+        "parent_id": "Python.pdf::17",
+        "section": "",
+        "chunk_id": "Python.pdf::17::1"
+      }
+    },
+    {
+      "page_content": "Q3. Plot a bar chart showing total sales for each product. \nQ4. Plot a scatter plot of Sales vs Profit. \nQ5. Create a pie chart showing total sales by region. \nQ6. Plot a histogram of the Sales column. \nQ7. Create a boxplot of Profit to detect outliers. \nQ8. Create a countplot showing how many products are sold in each region. \nQ9. Create a heatmap to show correlation between Sales and Profit.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 11,
+        "page_label": "12",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 12,
+        "parent_id": "Python.pdf::17",
+        "section": "",
+        "chunk_id": "Python.pdf::17::2"
+      }
+    },
+    {
+      "page_content": "Q10. Show total and average sales per region using pandas.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 11,
+        "page_label": "12",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 12,
+        "parent_id": "Python.pdf::17",
+        "section": "",
+        "chunk_id": "Python.pdf::17::3"
+      }
+    },
+    {
+      "page_content": "Step 4: SQL (Week 11\u201313) \n\"Welcome to the world of real-world data \u2013 learn to query like a pro.\" \n \nWeek 12: Basics \u2013 SELECT , WHERE, ORDER BY , LIMIT , Aliasing \nIntroduction to Databases & SQL \n \nSELECT statements to retrieve data \n \nFiltering with WHERE (AND, OR, BETWEEN, IN, LIKE) \n \nSorting results with ORDER BY \n \nLimiting results with LIMIT & OFFSET \n \nAliasing columns and tables",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 12,
+        "page_label": "13",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 13,
+        "parent_id": "Python.pdf::18",
+        "section": "",
+        "chunk_id": "Python.pdf::18::0"
+      }
+    },
+    {
+      "page_content": "Aliasing columns and tables \nQ1. Create and Insert Data. Create a table named Employees with the following columns: \nEmployeeID,Name,Department,Salary,JoiningDate. \nQ2. Select all columns from the Employees table. \nQ3. Display only Name and Department columns. \nQ4. Show all employees who work in the IT department. \nQ5. Retrieve employees with a Salary greater than 45,000.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 12,
+        "page_label": "13",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 13,
+        "parent_id": "Python.pdf::18",
+        "section": "",
+        "chunk_id": "Python.pdf::18::1"
+      }
+    },
+    {
+      "page_content": "Q5. Retrieve employees with a Salary greater than 45,000. \nQ6. Show employees who joined after 2020-01-01. \nQ7. Retrieve employees with a salary between 40,000 and 55,000. \nQ8. Display employees whose department is either HR or Finance. \nQ9. Retrieve employees whose name starts with 'S'. \nQ10. Show employees whose name ends with 'a'. \nQ11. Display employees ordered by salary in descending order.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 12,
+        "page_label": "13",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 13,
+        "parent_id": "Python.pdf::18",
+        "section": "",
+        "chunk_id": "Python.pdf::18::2"
+      }
+    },
+    {
+      "page_content": "Q12. Display the first 3 employees based on joining date. \nQ13. Retrieve employees skipping the first 2 rows using OFFSET.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 12,
+        "page_label": "13",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 13,
+        "parent_id": "Python.pdf::18",
+        "section": "",
+        "chunk_id": "Python.pdf::18::3"
+      }
+    },
+    {
+      "page_content": "Q14. Show employee names as Employee_Name using alias. \nQ15. Display Department as Dept and Salary as Income. \nQ16. Combine aliasing with sorting: Show top 3 highest paid employees with columns Employee_Name and \nIncome. \nQ17. Find the highest salary in the Employees table. \nQ18. Find the total number of employees in each department. \nQ19. Show the average salary of all employees.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 13,
+        "page_label": "14",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 14,
+        "parent_id": "Python.pdf::19",
+        "section": "",
+        "chunk_id": "Python.pdf::19::0"
+      }
+    },
+    {
+      "page_content": "Q19. Show the average salary of all employees. \nQ20. Display the employee(s) with the lowest salary. \n \n \nWeek 13: GROUP BY , HAVING, Joins (Inner, Left, Right, Full), Subqueries \nGROUP BY & Aggregation functions (SUM, AVG, COUNT, MAX, MIN) \n \nFiltering groups with HAVING \n \nINNER, LEFT, RIGHT, FULL Joins \u2013 Combining multiple tables \n \nWriting Subqueries for filtering and aggregations",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 13,
+        "page_label": "14",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 14,
+        "parent_id": "Python.pdf::19",
+        "section": "",
+        "chunk_id": "Python.pdf::19::1"
+      }
+    },
+    {
+      "page_content": "Writing Subqueries for filtering and aggregations \nQ1. Count how many employees are in each Department. \nQ2. Find the average salary per department. \nQ3. Show the highest and lowest salary in each department. \nQ4. Show the total salary paid per department. \nQ5. Count how many employees joined in each year (use YEAR(JoiningDate)). \nQ6. Find departments that have more than 1 employee.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 13,
+        "page_label": "14",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 14,
+        "parent_id": "Python.pdf::19",
+        "section": "",
+        "chunk_id": "Python.pdf::19::2"
+      }
+    },
+    {
+      "page_content": "Q6. Find departments that have more than 1 employee. \nQ7. Find departments where average salary > 50,000. \nQ8. Find joining years where more than 2 employees joined. \nQ9. Perform an INNER JOIN to show Employee Name with their Department Manager. \nQ10. Perform a LEFT JOIN to list all employees and their managers, even if manager info is missing.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 13,
+        "page_label": "14",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 14,
+        "parent_id": "Python.pdf::19",
+        "section": "",
+        "chunk_id": "Python.pdf::19::3"
+      }
+    },
+    {
+      "page_content": "Q11. Show total salary per department using JOIN + GROUP BY .",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 13,
+        "page_label": "14",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 14,
+        "parent_id": "Python.pdf::19",
+        "section": "",
+        "chunk_id": "Python.pdf::19::4"
+      }
+    },
+    {
+      "page_content": "Q12. Find the employee with the highest salary using a subquery. \nQ13. Find all employees who earn more than the average salary. \nQ14. Find the second highest salary using a subquery. \nQ15. Find employees who joined after the employee with the lowest salary. \nQ16. List all departments that have any employee earning more than 60,000.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 14,
+        "page_label": "15",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 15,
+        "parent_id": "Python.pdf::20",
+        "section": "",
+        "chunk_id": "Python.pdf::20::0"
+      }
+    },
+    {
+      "page_content": "Q17. Find the total number of employees and total salary in each department. \nQ18. List all employees whose salary is the maximum in their department. \nQ19. Show all departments where no employee earns less than 45,000 (use HAVING). \nQ20. Find employees whose joining year is the same as any HR department employee (use subquery).",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 14,
+        "page_label": "15",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 15,
+        "parent_id": "Python.pdf::20",
+        "section": "",
+        "chunk_id": "Python.pdf::20::1"
+      }
+    },
+    {
+      "page_content": "Week 14: Advanced SQL \u2013 Window Functions, CTEs, Nested Queries + Projects \nWindow Functions (ROW_NUMBER, RANK, DENSE_RANK, PARTITION BY) \n \nCommon Table Expressions (CTEs) \n \nNested Queries for complex filtering \n \nBuilding end-to-end SQL queries \n \nMini Projects: \n \nProject 1: Analyze an E-commerce dataset: Top-selling products, most active customers, revenue trends.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 14,
+        "page_label": "15",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 15,
+        "parent_id": "Python.pdf::20",
+        "section": "",
+        "chunk_id": "Python.pdf::20::2"
+      }
+    },
+    {
+      "page_content": "Project 2: Build a Student Management Dashboard using SQL: Average scores, top performers, pass/fail stats.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 14,
+        "page_label": "15",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 15,
+        "parent_id": "Python.pdf::20",
+        "section": "",
+        "chunk_id": "Python.pdf::20::3"
+      }
+    },
+    {
+      "page_content": "Step 5: Machine Learning (Week 15\u201321) \n \n \nVideos - https://youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5&si=zPjf0Wb98hFbaYLx \n \n \n\"Now you're the magician \u2013 build models, make predictions, automate decisions.\" \n \nWeek 15: Intro to ML + Linear Regression \nWhat is Machine Learning? (Types: Supervised, Unsupervised, Reinforcement) \n \nUnderstanding Features & Labels",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 15,
+        "page_label": "16",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 16,
+        "parent_id": "Python.pdf::21",
+        "section": "Step 5: Machine Learning (Week 15\u201321)",
+        "chunk_id": "Python.pdf::21::0"
+      }
+    },
+    {
+      "page_content": "Understanding Features & Labels \n \nSimple & Multiple Linear Regression \n \nImplementing Linear Regression with scikit-learn \nMini Projects: \n \nProject 1: Predict Student Exam Scores: Predict a student\u2019s exam score based on study hours and other \nfeatures like parental education and lunch type.",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 15,
+        "page_label": "16",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 16,
+        "parent_id": "Python.pdf::21",
+        "section": "Step 5: Machine Learning (Week 15\u201321)",
+        "chunk_id": "Python.pdf::21::1"
+      }
+    },
+    {
+      "page_content": "features like parental education and lunch type. \n \nProject 2: House Price Prediction: Predict the price of a house using features like area, number of bedrooms, \nand bathrooms. \n \n \nWeek 16: Classification (Logistic Regression, KNN) \nLogistic Regression (Binary & Multiclass)",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 15,
+        "page_label": "16",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 16,
+        "parent_id": "Python.pdf::21",
+        "section": "Step 5: Machine Learning (Week 15\u201321)",
+        "chunk_id": "Python.pdf::21::2"
+      }
+    },
+    {
+      "page_content": "K-Nearest Neighbors (KNN) \u2013 Concept & Implementation \n \nDecision Boundaries & Model Interpretability \nProject 1: Predict Student Pass/Fail using Study Hours and Scores \nProject 2: Classify Iris Flowers into 3 Species using Petal and Sepal Measurements \nProject 3: Predict if a Person has Diabetes based on Health Metrics (PIMA Diabetes Dataset)",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 16,
+        "page_label": "17",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 17,
+        "parent_id": "Python.pdf::22",
+        "section": "Decision Boundaries & Model Interpretability",
+        "chunk_id": "Python.pdf::22::0"
+      }
+    },
+    {
+      "page_content": "Project 4: Classify Titanic Passengers as Survived or Not Survived based on Age, Gender, and Class \n \n \n \n \n \nWeek 17: Decision Tree, Random Forest \nDecision Trees: Splitting Criteria (Gini, Entropy) \n \nOverfitting & Pruning Techniques \n \nRandom Forests \u2013 Bagging & Feature Importance \nProject 1: Predict Mushroom Type (Edible or Poisonous) using Physical Features (Mushroom Dataset)",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 16,
+        "page_label": "17",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 17,
+        "parent_id": "Python.pdf::22",
+        "section": "Decision Boundaries & Model Interpretability",
+        "chunk_id": "Python.pdf::22::1"
+      }
+    },
+    {
+      "page_content": "Project 2: Classify Mobile Price Range (Low/Medium/High) based on Technical Specifications \n \n \nWeek 18: SVM, Naive Bayes \nSupport Vector Machines: Margins & Kernels \n \nGaussian Naive Bayes: Probabilistic Classification \n \nWhen to use SVM vs Naive Bayes \nProject 1: Classify Emails as Spam or Not Spam using the SpamBase Dataset",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 16,
+        "page_label": "17",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 17,
+        "parent_id": "Python.pdf::22",
+        "section": "Decision Boundaries & Model Interpretability",
+        "chunk_id": "Python.pdf::22::2"
+      }
+    },
+    {
+      "page_content": "Project 2: Predict Handwritten Digits (0\u20139) using the MNIST Dataset \n \n \nWeek 19: Clustering (K-Means, DBSCAN) \nK-Means Clustering \u2013 Centroids & Inertia \n \nDBSCAN for density-based clustering \n \nChoosing K (Elbow Method, Silhouette Score) \nProject 1: Customer Segmentation using Mall Customers Dataset \nProject 2: Group Similar Movies based on Ratings or Features using MovieLens Dataset",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 17,
+        "page_label": "18",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 18,
+        "parent_id": "Python.pdf::23",
+        "section": "K-Means Clustering \u2013 Centroids & Inertia",
+        "chunk_id": "Python.pdf::23::0"
+      }
+    },
+    {
+      "page_content": "Week 20: Model Evaluation \u2013 Confusion Matrix, Accuracy, Precision, Recall, ROC \nConfusion Matrix & Classification Metrics \n \nPrecision, Recall, F1-Score \u2013 Tradeoffs \n \nROC Curve & AUC \n \nPractice: \n \nProject 1: Predict Loan Approval using the Loan Prediction Dataset \nProject 2: Diagnose Diabetes using the Pima Indians Diabetes Dataset",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 17,
+        "page_label": "18",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 18,
+        "parent_id": "Python.pdf::23",
+        "section": "K-Means Clustering \u2013 Centroids & Inertia",
+        "chunk_id": "Python.pdf::23::1"
+      }
+    },
+    {
+      "page_content": "Week 21: Cross-Validation, Hyperparameter Tuning + Mini ML Project",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 17,
+        "page_label": "18",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 18,
+        "parent_id": "Python.pdf::23",
+        "section": "K-Means Clustering \u2013 Centroids & Inertia",
+        "chunk_id": "Python.pdf::23::2"
+      }
+    },
+    {
+      "page_content": "K-Fold Cross Validation \n \nGrid Search & Random Search for Hyperparameter Tuning \n \nWrap-up: Build a mini end-to-end ML project \n \n \nMini Project: Build a model to predict employee attrition (classification) or house prices (regression). \n \n \n \n \nStep 6: Deep Learning (Week 22\u201325) \n\"Let\u2019s mimic the human brain \u2014 welcome to neural networks.\"",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 18,
+        "page_label": "19",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 19,
+        "parent_id": "Python.pdf::24",
+        "section": "K-Fold Cross Validation",
+        "chunk_id": "Python.pdf::24::0"
+      }
+    },
+    {
+      "page_content": "Week 22: Basics \u2013 Perceptron, Activation Functions, Forward + Backprop \nWhat is a Neural Network? \n \nPerceptron: The simplest neuron \n \nActivation Functions: Sigmoid, ReLU, Tanh, Softmax \n \nForward Propagation \u2013 How predictions are made \n \nBackpropagation \u2013 How networks learn \nQ1. Compute the Sigmoid, ReLU, and Tanh values for the array [-2, -1, 0, 1, 2].",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 18,
+        "page_label": "19",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 19,
+        "parent_id": "Python.pdf::24",
+        "section": "K-Fold Cross Validation",
+        "chunk_id": "Python.pdf::24::1"
+      }
+    },
+    {
+      "page_content": "Q2. Calculate the weighted sum and Sigmoid activation for input [2,3] with weights [0.5,0.2] and bias 0.1. \nQ3. Implement a perceptron to simulate the AND gate. \nQ4. Compute the Mean Squared Error (MSE) for y_true=[1,0,1,0] and y_pred=[0.8,0.2,0.9,0.1].",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 18,
+        "page_label": "19",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 19,
+        "parent_id": "Python.pdf::24",
+        "section": "K-Fold Cross Validation",
+        "chunk_id": "Python.pdf::24::2"
+      }
+    },
+    {
+      "page_content": "Q5. Perform one step of weight update for a single neuron using gradient descent (manual backprop). \nQ6. Plot the Sigmoid, ReLU, and Tanh functions for values from -5 to 5. \nQ7. Create a step activation function and test it on input [0.2, -0.3, 1.5, -2]. \nQ8. Calculate the derivative of the Sigmoid function for input [0,1,2].",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 19,
+        "page_label": "20",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 20,
+        "parent_id": "Python.pdf::25",
+        "section": "",
+        "chunk_id": "Python.pdf::25::0"
+      }
+    },
+    {
+      "page_content": "Q9. Initialize random weights and biases for a single neuron with 3 inputs. \nQ10. Compute the output of a perceptron for OR gate using randomly initialized weights and a step activation \nfunction. \n \nWeek 23: ANN (TensorFlow/Keras) \u2013 Build from scratch + Keras implementation \nBuilding a Neural Network from scratch using NumPy \n \nIntroduction to TensorFlow & Keras",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 19,
+        "page_label": "20",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 20,
+        "parent_id": "Python.pdf::25",
+        "section": "",
+        "chunk_id": "Python.pdf::25::1"
+      }
+    },
+    {
+      "page_content": "Introduction to TensorFlow & Keras \n \nDefining models, compiling, training, and evaluating \n \nHands-on: Predicting house prices or MNIST digits \nProject 1: Predict house prices using a simple Artificial Neural Network (Boston Housing Dataset \u2013 available in \nsklearn.datasets). \nProject 2: Classify handwritten digits using ANN (MNIST Dataset \u2013 available in Keras).",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 19,
+        "page_label": "20",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 20,
+        "parent_id": "Python.pdf::25",
+        "section": "",
+        "chunk_id": "Python.pdf::25::2"
+      }
+    },
+    {
+      "page_content": "Week 24: CNN \u2013 Image Data, Filters, Pooling, Image Classification \nConvolution: Filters & Feature Maps \n \nPooling (Max, Average) & Flattening \n \nBuilding CNNs for Image Classification \n \nUsing Pre-trained Models (Transfer Learning) \nProject 1: Classify handwritten digits using CNN (MNIST Dataset \u2013 available in Keras).",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 19,
+        "page_label": "20",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 20,
+        "parent_id": "Python.pdf::25",
+        "section": "",
+        "chunk_id": "Python.pdf::25::3"
+      }
+    },
+    {
+      "page_content": "Project 2: Build a CNN to classify cats vs dogs (Kaggle: \u201cDogs vs Cats\u201d dataset). \n \nWeek 25 : RNN \u2013 Sequential Data, LSTM/GRU + DL Project \nRecurrent Neural Networks: Why we need them \n \nLSTM & GRU \u2013 Handling long-term dependencies \n \nSequence data examples: Text, Time-series \n \nEnd-to-End Deep Learning Project",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 20,
+        "page_label": "21",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 21,
+        "parent_id": "Python.pdf::26",
+        "section": "Step 7: Specialization (Week 25\u201326)",
+        "chunk_id": "Python.pdf::26::0"
+      }
+    },
+    {
+      "page_content": "End-to-End Deep Learning Project \nProject 1: Predict next words in a sentence using LSTM (Text Generation on small dataset). \nProject 2: Stock price prediction using LSTM on historical stock data. \n \n Step 7: Specialization (Week 25\u201326) \n\u201cNow choose your path: become a domain expert.\u201d \n \nWeek 25: Choose 1 track \u2014 \n \nNLP (Text, Sentiment, Transformers) \n \nCV (Computer Vision)",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 20,
+        "page_label": "21",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 21,
+        "parent_id": "Python.pdf::26",
+        "section": "Step 7: Specialization (Week 25\u201326)",
+        "chunk_id": "Python.pdf::26::1"
+      }
+    },
+    {
+      "page_content": "CV (Computer Vision) \n \nBI Tools (Power BI/Tableau) \n \nData Engineering (Airflow, ETL) \n \nWeek 26: Build & deploy a capstone project + Make GitHub portfolio + Resume prep",
+      "metadata": {
+        "producer": "Microsoft\u00ae Word 2021",
+        "creator": "Microsoft\u00ae Word 2021",
+        "creationdate": "2025-08-12T22:38:16+05:30",
+        "author": "bhoomi verma",
+        "moddate": "2025-08-12T22:38:16+05:30",
+        "source": "C:\\Users\\JITESH\\Desktop\\Rag\\Rag_proj\\data\\documents\\Python.pdf",
+        "total_pages": 21,
+        "page": 20,
+        "page_label": "21",
+        "filename": "Python.pdf",
+        "doc_type": "pdf",
+        "page_number": 21,
+        "parent_id": "Python.pdf::26",
+        "section": "Step 7: Specialization (Week 25\u201326)",
+        "chunk_id": "Python.pdf::26::2"
+      }
+    }
+  ]
+}
